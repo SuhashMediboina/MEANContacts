@@ -1,0 +1,27 @@
+{
+  "name": "contactslist",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.0",
+    "body-parser": "^1.17.0",
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuhashMediboina/MEANContacts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuhashMediboina/MEANContacts/issues"
+  },
+  "homepage": "https://github.com/SuhashMediboina/MEANContacts#readme",
+  "keywords": [],
+  "description": ""
+}
